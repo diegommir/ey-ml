@@ -15,6 +15,7 @@ O notebook final é o Projeto Final - EY Machine Learning.ipynb. O outro arquivo
     - git clone https://github.com/diegommir/ey-ml.git
 
 - Crie um ambiente virtual para o projeto
+    - cd ey-ml
     - python3 -m venv .venv
 
 - Ative o ambiente virtual
@@ -35,3 +36,5 @@ O notebook final é o Projeto Final - EY Machine Learning.ipynb. O outro arquivo
 
 - Execute o Lab
     - jupyter-lab
+
+- Verifique se o Lab está rodando o ambiente '.venv'
