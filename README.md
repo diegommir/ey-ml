@@ -8,3 +8,24 @@ A princípio, a ideia básica é apontar a câmera do dispositivo na direção d
 ## Notebooks
 
 O notebook final é o Projeto Final - EY Machine Learning.ipynb. O outro arquivo é um notebook de desenvolvimento dos algorítmos usados.
+
+## Instalação
+
+- Clone este projeto na sua máquina
+    git clone https://github.com/diegommir/ey-ml.git
+
+- Crie um ambiente virtual para o projeto
+    python3 -m venv .venv
+
+- Ative o ambiente virtual
+    No mac: source .venv/bin/activate
+
+- Atualize o PIP
+    pip install -U pip
+
+- Instale o Jupyter Lab
+    pip install jupyterlab
+
+- Execute o Lab
+    jupyter-lab
+    
